@@ -28,6 +28,12 @@ body {
 
 .perfil {
   display: flex;
+  align-items: center-top;
+}
+
+.perfil {
+  display: flex;
+  justify-content: space-between;
 }
 
 .perfil-foto {
@@ -52,11 +58,11 @@ body {
 
 .tema button {
   align-self: flex-end;
-  font-size: 24px;
-  font-weight: 400;
-  padding: 8px 16px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 9px 10px;
   background: #ecf4ff;
-  border-radius: 100px;
+  border-radius: 400px;
 }
 
 .projetos {
